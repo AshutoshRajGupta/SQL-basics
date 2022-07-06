@@ -12,16 +12,16 @@ It provides protection and security to the database. In the case of multiple use
 
 ## DBMS allows users the following tasks:
 
-#### Data Definition: It is used for creation, modification, and removal of definition that defines the organization of data in the database.
-#### Data Updation: It is used for the insertion, modification, and deletion of the actual data in the database.
-#### Data Retrieval: It is used to retrieve the data from the database which can be used by applications for various purposes.
-#### User Administration: It is used for registering and monitoring users, maintain data integrity, enforcing data security, 
+# Data Definition: It is used for creation, modification, and removal of definition that defines the organization of data in the database.
+# Data Updation: It is used for the insertion, modification, and deletion of the actual data in the database.
+# Data Retrieval: It is used to retrieve the data from the database which can be used by applications for various purposes.
+# User Administration: It is used for registering and monitoring users, maintain data integrity, enforcing data security, 
      dealing with concurrency control, monitoring performance and recovering information corrupted by unexpected failure.
      
 ## Advantages of DBMS
-#### Controls database redundancy: It can control data redundancy because it stores all the data in one single database file and that recorded data is placed in the database.
-#### Data sharing: In DBMS, the authorized users of an organization can share the data among multiple users.
-#### Easily Maintenance: It can be easily maintainable due to the centralized nature of the database system.
-#### Reduce time: It reduces development time and maintenance need.
-#### Backup: It provides backup and recovery subsystems which create automatic backup of data from hardware and software failures and restores the data if required.
-#### multiple user interface: It provides different types of user interfaces like graphical user interfaces, application program interfaces
+# Controls database redundancy: It can control data redundancy because it stores all the data in one single database file and that recorded data is placed in the database.
+# Data sharing: In DBMS, the authorized users of an organization can share the data among multiple users.
+# Easily Maintenance: It can be easily maintainable due to the centralized nature of the database system.
+# Reduce time: It reduces development time and maintenance need.
+# Backup: It provides backup and recovery subsystems which create automatic backup of data from hardware and software failures and restores the data if required.
+# multiple user interface: It provides different types of user interfaces like graphical user interfaces, application program interfaces
