@@ -1,6 +1,6 @@
 # SQL-basics
 basics of SQL
-notes for understanding  concept of SQL.
+
 SQL stands for Structured Query language.
 It is used to perform operations on the records stored in the database, such as updating records, inserting records, 
 deleting records, creating and modifying database tables, views, etc.
@@ -12,5 +12,5 @@ This database language is mainly designed for maintaining the data in relational
 ## Databases
 database is an organized collection of data so that it can be easily accessed. To manage these databases, Database Management Systems (DBMS) are used.
 In general, there are two common types of databases:
-Non-Relational -In Non-RDBMS, data is stored in key-value pairs.
-Relational - In RDBMS, data is stored in tabular format.
+#### Non-Relational -In Non-RDBMS, data is stored in key-value pairs.
+#### Relational - In RDBMS, data is stored in tabular format.
