@@ -12,5 +12,6 @@ This database language is mainly designed for maintaining the data in relational
 ## Databases
 database is an organized collection of data so that it can be easily accessed. To manage these databases, Database Management Systems (DBMS) are used.
 In general, there are two common types of databases:
-#### Non-Relational -In Non-RDBMS, data is stored in key-value pairs.
+#### Non-Relational -In Non-RDBMS, data is stored in key-value pairs  .
 #### Relational - In RDBMS, data is stored in tabular format.
+
